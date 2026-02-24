@@ -70,6 +70,15 @@ LINUX         ████████████████████  95% 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moulkhibra&layout=compact&theme=dark&title_color=FF1A2E&text_color=E8A0A8&bg_color=060102&border_color=2A0606)
 
+### 🔥 Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=moulkhibra&theme=dark&background=060102&border=2A0606&ring=FF1A2E&fire=FF5500&currStreakLabel=FF1A2E&sideLabels=E8A0A8&currStreakNum=FF1A2E&sideNums=E8A0A8&dates=5A1515)](https://git.io/streak-stats)
+
+### 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=moulkhibra&theme=radical&no-frame=true&no-bg=true&margin-w=8&title=Stars,Followers,Commits,Repositories,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🐍 Contribution Snake
+![snake gif](https://github.com/moulkhibra/moulkhibra/blob/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
