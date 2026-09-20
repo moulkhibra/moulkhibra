@@ -1,241 +1,218 @@
 <div align="center">
 
 ```
-███╗   ███╗ ██████╗ ██╗   ██╗██╗     ██╗  ██╗██╗  ██╗██╗██████╗ ██████╗  █████╗ 
+███╗   ███╗ ██████╗ ██╗   ██╗██╗     ██╗  ██╗██╗  ██╗██╗██████╗ ██████╗  █████╗
 ████╗ ████║██╔═══██╗██║   ██║██║     ██║ ██╔╝██║  ██║██║██╔══██╗██╔══██╗██╔══██╗
 ██╔████╔██║██║   ██║██║   ██║██║     █████╔╝ ███████║██║██████╔╝██████╔╝███████║
 ██║╚██╔╝██║██║   ██║██║   ██║██║     ██╔═██╗ ██╔══██║██║██╔══██╗██╔══██╗██╔══██║
 ██║ ╚═╝ ██║╚██████╔╝╚██████╔╝███████╗██║  ██╗██║  ██║██║██████╔╝██║  ██║██║  ██║
 ╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-```
 
 ```
-━━━━━━━━════════════════════════════════════════════════════════════════════════
-  DOC-ID : MOULKHIBRA-PROFILE · v3.0 · security researcher in training
-  OP     : profile_rebuild   · CHANNEL : public · CLEARANCE : UNCLASSIFIED
-  ▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓▒▓
-━━━━━━━━════════════════════════════════════════════════════════════════════════
-```
 
-[![Profile typing badge](https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=18&pause=900&color=FF1A2E&center=true&vCenter=true&width=640&lines=SECURITY+RESEARCHER+%E2%80%94+IN+TRAINING+%E2%80%94+BUILDING;OFFENSIVE+SECURITY+%C2%B7+OSINT+%C2%B7+CS+FOUNDATIONS;PYTHON+%C2%B7+C+%C2%B7+JAVASCRIPT+%C2%B7+LINUX;AUTHORIZED+TESTING+ONLY+%E2%80%94+CODE+AHEAD)](https://readme-typing-svg.demolab.com)
+[![Animated boot sequence — security lab initialization](assets/header.svg)](https://github.com/moulkhibra)
+
+[![Status indicators — access level public, status building](assets/status.svg)](https://github.com/moulkhibra)
 
 </div>
 
+<!-- Easter egg — author note: every claim on this profile maps to a public
+     repository. No credentials are fabricated. Nothing here is a trophy wall. -->
+<!-- 65 41 53 54 45 52  45 47 47  3A  20 6C 65 61 72 6E 20 73 6C 6F 77 2C  62 75 69 6C 64  73 74 65 61 64 79 -->
+
+> **MOULKHIBRA** — self-taught security researcher **in training** · builder · 1337/42 piscine student.
+> This profile documents **what is built** and **what is being studied**. Every claim below maps to a public repository you can open.
+
 ---
 
-![0x01 · SYSTEM IDENTITY](https://img.shields.io/badge/0x01%20%C2%B7%20SYSTEM%20IDENTITY-7C0A0A?style=for-the-badge&labelColor=0A0505)
+## 0x00 · SYSTEM IDENTITY
 
 ```text
-┌─[moulkhibra@classified]─[~]
-└──╼ $ whoami
+NAME     : Amine Erresmy
+ALIAS    : moulkhibra
+FOCUS    : security research · web security · OSINT · tooling
+LOCATION : Morocco (remote-friendly)
+SCHOOL   : 1337 / 42 Network piscine (POOL1337) — C & shell foundations
+STATUS   : ● ACTIVE — building, documenting, studying
 ```
 
-```text
-> NAME     : Amine Erresmy
-> ALIAS    : moulkhibra
-> FOCUS    : Security research · offensive security · OSINT · tooling
-> LOCATION : Morocco (remote-friendly)
-> STATUS   : ● ACTIVE — learning, building, authorized testing only
-> SCHOOL   : 1337 / 42 Network piscine (POOL1337) — CS foundations in C & shell
-```
+## 0x01 · MISSION & BOUNDARY
 
-> Self-taught trajectory. This profile documents what is **built** and what is **being studied** — every claim maps to a repository you can open.
+Three lanes, kept deliberately separate so nothing is mislabeled:
+
+- **SECURITY LEARNING** — C foundations, web-security defence shipped in real apps, OSINT/recon study
+- **SOFTWARE ENGINEERING** — management systems, real-time applications, dashboards
+- **TAEKWONDO DOMAIN APPS** — tools for the sport I train
+
+> Boundary: everything labeled **IN PROGRESS / STUDYING** is intentional learning on local labs and authorized targets only —
+> not claims of certifications, engagements, or bug-bounty rewards.
+
+[![Animated terminal session — decorative commands](assets/terminal.svg)](https://github.com/moulkhibra)
 
 ---
 
-![0x02 · SECURITY ARSENAL](https://img.shields.io/badge/0x02%20%C2%B7%20SECURITY%20ARSENAL-7C0A0A?style=for-the-badge&labelColor=0A0505)
+## 0x02 · TECHNICAL ARSENAL
 
-Markers: `●` applied in my repositories · `○` actively studying. No percentages — capability is proven by code, not bars.
+Markers: `●` applied in repositories · `○` actively studying. No fake percentages — capability is proven by code, not bars.
 
-### PROGRAMMING & AUTOMATION
+| Area | Stack | Status |
+|---|---|---|
+| Languages | Python · C · JavaScript (Node) · Bash · SQL | `●` in repo code |
+| Web (backend) | Flask · SQLAlchemy · WTForms · Socket.IO | `●` taekwondo-tournament · 7ofra |
+| Web (frontend) | React · Vite · Tailwind · i18next | `●` taekwondo-app · INTRA-TKD |
+| Desktop | Python + Tkinter · SQLite | `●` SMTN *(documented)* |
+| Systems | Linux daily driver · Git · (Kali: study) | `●` / `○` |
+| Data | SQLite · Firestore · openpyxl (Excel) | `●` |
+| Security | PBKDF2 hashing · RBAC · CSRF/XSS defence · Firestore rules | `●` in repos |
+| OSINT / Recon | footprinting · passive collection · written analysis | `○` study + labs |
 
-![Python](https://img.shields.io/badge/Python-8A0D0D?style=flat&logo=python&logoColor=FF5A36)
-![C](https://img.shields.io/badge/C-5E0A0A?style=flat&logo=c&logoColor=8FB4D8)
-![JavaScript](https://img.shields.io/badge/JavaScript-8A0D0D?style=flat&logo=javascript&logoColor=FFD54F)
-![React](https://img.shields.io/badge/React-5E0A0A?style=flat&logo=react&logoColor=61DAFB)
-![Bash](https://img.shields.io/badge/Bash-8A0D0D?style=flat&logo=gnubash&logoColor=C4420A)
-![SQL](https://img.shields.io/badge/SQLite-5E0A0A?style=flat&logo=sqlite&logoColor=C4420A)
+## 0x03 · SECURITY MODULES
 
-- `●` Python (Tkinter app, Flask API), `●` C (piscine exercises, memory management), `●` JavaScript/Node (real-time server), `●` React + Vite frontend, `●` Bash scripting.
+Security work actually shipped in this profile's code:
 
-### LINUX & SYSTEMS
+- **taekwondo-tournament** — PBKDF2 password hashing (Werkzeug) · role-based access · CSRF guard (Flask-WTF) · Jinja autoescape
+- **INTRA-TKD** — Firebase Auth · Firestore security rules (role-scoped) · env-driven Firebase config
+- **7ofra** — real-time LAN protocol implementation (Node · Socket.IO)
+- **This profile** — GitHub Actions workflow for the contribution grid
 
-![Linux](https://img.shields.io/badge/Linux-8A0D0D?style=flat&logo=linux&logoColor=C4420A)
-![Kali](https://img.shields.io/badge/Kali_Linux-5E0A0A?style=flat&logo=kalilinux&logoColor=FF1A2E)
-![Shell](https://img.shields.io/badge/Shell-8A0D0D?style=flat&logo=gnubash&logoColor=FF5A36)
-![Git](https://img.shields.io/badge/Git-5E0A0A?style=flat&logo=git&logoColor=C4420A)
-
-- `●` Daily Linux driver, process/service management, `●` self-hosted LAN services, `●` shell fundamentals from the 1337 shell00/01 work.
-
-### NETWORKING
-
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-8A0D0D?style=flat)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-5E0A0A?style=flat&logo=socket.io&logoColor=white)
-![LAN](https://img.shields.io/badge/LAN_services-8A0D0D?style=flat)
-
-- `●` Real-time networking implemented (Socket.IO rooms, presence, message relay), `○` packet analysis and protocol internals.
-
-### OSINT & RECONNAISSANCE
-
-![OSINT](https://img.shields.io/badge/OSINT-8A0D0D?style=flat)
-![Recon](https://img.shields.io/badge/Recon_fundamentals-5E0A0A?style=flat)
-
-- `○` Open-source intelligence methodology, footprinting, and written analysis — currently studied, applied in personal labs only.
-
-### WEB SECURITY
-
-![OWASP](https://img.shields.io/badge/OWASP_top_10-8A0D0D?style=flat)
-![Auth](https://img.shields.io/badge/Auth_%26_authorization-5E0A0A?style=flat)
-![SQLi-XSS](https://img.shields.io/badge/SQLi%2FXSS_defence-8A0D0D?style=flat)
-
-- `●` Defense shipped in real projects: PBKDF2 password hashing + RBAC (SMTN), CSRF/XSS protection via WTForms + Jinja autoescape (taekwondo-tournament), Firebase security rules (taekwondo-app).
-- `○` Offensive web testing methodology — OWASP top 10, vulnerability classes, exploitation inside authorized labs and CTFs.
-
-### SECURITY RESEARCH
-
-![CTF](https://img.shields.io/badge/CTF-8A0D0D?style=flat)
-![Tooling](https://img.shields.io/badge/Security_tooling-5E0A0A?style=flat)
-
-- `○` CTF challenges, bug bounty (authorized scopes only), exploit-documentation writing, and defensive tooling.
+`○` Studying next: OWASP Top 10 methodology, network packet analysis, CTF challenges, exploit documentation.
 
 ---
 
-![0x03 · CASE FILES / PROJECTS](https://img.shields.io/badge/0x03%20%C2%B7%20CASE%20FILES%20%E2%80%94%20PROJECTS-7C0A0A?style=for-the-badge&labelColor=0A0505)
+## 0x04 · CASE FILES
 
 ```text
 ┌──────────────────────────────────────────────┐
-│ [ CASE FILE 0x01 ]  ▟   POOL1337             │
+│ [ CASE 0x01 ]  ▟  POOL1337                   │
 ├──────────────────────────────────────────────┤
 │ CLASS    : education — 1337 (42 Network)     │
 │ PURPOSE  : C & shell fundamentals            │
 │ STACK    : C · Bash · Shell · Git            │
-│ STATUS   : ● complete — c00–c13 · shell00/01 │
-│               · rush00 (archive)             │
-│ NOTE     : memory, pointers, algorithms      │
+│ STATUS   : ● c00–c13 · shell00/01 · rush00   │
+│ DID      : memory, pointers, algorithms,     │
+│            Makefile, recursion, linked lists │
+└──────────────────────────────────────────────┘
+```
+[![Repo · POOL1337](https://img.shields.io/badge/REPO-POOL1337-A41312?style=for-the-badge&logo=github)](https://github.com/moulkhibra/POOL1337)
+
+---
+
+## 0x05 · ENGINEERING LAB
+
+```text
+┌──────────────────────────────────────────────┐
+│ [ LAB 0x02 ]  ▟  taekwondo-tournament        │
+├──────────────────────────────────────────────┤
+│ CLASS    : application — tournament engine   │
+│ PURPOSE  : Kyourgi & Poomsae tournaments     │
+│ STACK    : Python · Flask · SQLAlchemy       │
+│ STATUS   : ● functional prototype            │
+│ CORE     : Qor3a fair-draw + BYE brackets    │
+│ SECURITY : PBKDF2 · RBAC · CSRF · autoescape │
 └──────────────────────────────────────────────┘
 ```
 
-[![REPO · POOL1337](https://img.shields.io/badge/REPO_POOL1337-A41312?style=for-the-badge&logo=github)](https://github.com/moulkhibra/POOL1337)
-
----
+[![Repo · taekwondo-tournament](https://img.shields.io/badge/REPO-TKD_tournament-A41312?style=for-the-badge&logo=github)](https://github.com/moulkhibra/taekwondo-tournament)
 
 ```text
-┌─────────────────────────────────────────────────┐
-│ [ CASE FILE 0x02 ]  ▟   SMTN                    │
-├─────────────────────────────────────────────────┤
-│ CLASS    : application — school management       │
-│ PURPOSE  : desktop admin for schools             │
-│ STACK    : Python · Tkinter · SQLite             │
-│ STATUS   : ● functional v1.0 (demo dataset)      │
-│ SECURITY : PBKDF2 hashing · role-based access    │
-│ MODULES  : users, grades, finance, attendance,   │
-│            schedules, resources, notifications   │
-└─────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│ [ LAB 0x03 ]  ▟  INTRA-TKD                   │
+├──────────────────────────────────────────────┤
+│ CLASS    : application — club management     │
+│ PURPOSE  : students · payments · attendance  │
+│ STACK    : React · Firebase · Tailwind       │
+│ STATUS   : ● in development (real codebase)  │
+│ EXTRA    : QR attendance · ID cards · PWA    │
+└──────────────────────────────────────────────┘
 ```
 
-[![REPO · SMTN](https://img.shields.io/badge/REPO_SMTN-A41312?style=for-the-badge&logo=github)](https://github.com/moulkhibra/SMTN)
-
----
+[![Repo · INTRA-TKD](https://img.shields.io/badge/REPO-INTRA-TKD-A41312?style=for-the-badge&logo=github)](https://github.com/moulkhibra/INTRA-TKD)
 
 ```text
-┌──────────────────────────────────────────────────┐
-│ [ CASE FILE 0x03 ]  ▟   taekwondo-tournament      │
-├──────────────────────────────────────────────────┤
-│ CLASS    : application — tournament engine        │
-│ PURPOSE  : manage Kyourgi & Poomsae tournaments   │
-│ STACK    : Python · Flask · SQLAlchemy · WTForms  │
-│ STATUS   : ● functional prototype                 │
-│ ALGORITHM: "Qor3a" fair-draw brackets + BYE       │
-│ FEATURES : Excel import/export · brackets export  │
-│ SECURITY : CSRF/WTF · Jinja autoescape            │
-└──────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│ [ LAB 0x04 ]  ▟  taekwondo-app               │
+├──────────────────────────────────────────────┤
+│ CLASS    : application — club dashboard      │
+│ PURPOSE  : Arabic RTL club management        │
+│ STACK    : React 18 · Vite · Tailwind        │
+│ STATUS   : ● in development                  │
+│ FEATURES : students · classes · tournaments  │
+│            · i18n (ar/en)                    │
+└──────────────────────────────────────────────┘
 ```
 
-[![REPO · taekwondo-tournament](https://img.shields.io/badge/REPO_TKD_tournament-A41312?style=for-the-badge&logo=github)](https://github.com/moulkhibra/taekwondo-tournament)
+[![Repo · taekwondo-app](https://img.shields.io/badge/REPO-TKD_app-A41312?style=for-the-badge&logo=github)](https://github.com/moulkhibra/taekwondo-app)
 
 ---
+
+## 0x06 · PROJECTS — STATUS REQUIRES REVIEW
 
 ```text
-┌──────────────────────────────────────────────────┐
-│ [ CASE FILE 0x04 ]  ▟   taekwondo-app             │
-├──────────────────────────────────────────────────┤
-│ CLASS    : application — club management (AR)     │
-│ PURPOSE  : full Arabic RTL club dashboard         │
-│ STACK    : React 18 · Vite · Tailwind · Firebase  │
-│ STATUS   : ● in development                       │
-│ FEATURES : students, classes, tournaments, i18n   │
-│ SECURITY : Firebase Auth + Firestore rules        │
-└──────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│ [ FILE 0x03 ]  ▟  SMTN                       │
+├──────────────────────────────────────────────┤
+│ CLASS    : application — school management   │
+│ PURPOSE  : desktop admin (users, grades,     │
+│            finance, attendance)              │
+│ STACK    : Python · Tkinter · SQLite (doc'd) │
+│ STATUS   : ⚠ DOCUMENTED — full source not    │
+│            yet published in this repository  │
+└──────────────────────────────────────────────┘
 ```
 
-[![REPO · taekwondo-app](https://img.shields.io/badge/REPO_TKD_app-A41312?style=for-the-badge&logo=github)](https://github.com/moulkhibra/taekwondo-app)
+> **Honest status:** the SMTN repo contains documentation, the entry point and a demo database — the working `src/` modules
+> are **not yet committed**. `main.py` currently imports modules that are absent from the repository.
+> The profile lists it accurately as *documented, source pending*.
+
+[![Repo · SMTN](https://img.shields.io/badge/REPO-SMTN-A41312?style=for-the-badge&logo=github)](https://github.com/moulkhibra/SMTN)
 
 ---
+
+## 0x07 · NETWORK & REAL-TIME LAB
 
 ```text
-┌──────────────────────────────────────────────────┐
-│ [ CASE FILE 0x05 ]  ▟   7ofra                     │
-├──────────────────────────────────────────────────┤
-│ CLASS    : application — LAN real-time chat       │
-│ PURPOSE  : p2p-style chat over local network      │
-│ STACK    : Node.js · Express · Socket.IO          │
-│ STATUS   : ● prototype — runs locally (LAN)       │
-│ FEATURES : global/private rooms, reactions,       │
-│            typing indicators, history             │
-│ NOTE     : pending secret-cleanup & gitignore     │
-└──────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│ [ LAB 0x05 ]  ▟  7ofra                       │
+├──────────────────────────────────────────────┤
+│ CLASS    : application — LAN real-time chat  │
+│ PURPOSE  : local-network rooms + reactions   │
+│ STACK    : Node.js · Express · Socket.IO     │
+│ STATUS   : ● prototype — runs locally (LAN)  │
+│ NOTE     : stale `.env` key being sanitized  │
+│            (audit finding, tracked fix)      │
+└──────────────────────────────────────────────┘
 ```
 
-[![REPO · 7ofra](https://img.shields.io/badge/REPO_7ofra-A41312?style=for-the-badge&logo=github)](https://github.com/moulkhibra/7ofra)
-
----
+[![Repo · 7ofra](https://img.shields.io/badge/REPO-7ofra-A41312?style=for-the-badge&logo=github)](https://github.com/moulkhibra/7ofra)
 
 ```text
-┌──────────────────────────────────────────────────┐
-│ [ CASE FILE 0x06 ]  ▟   moulkhibra.github.io      │
-├──────────────────────────────────────────────────┤
-│ CLASS    : web — cinematic cybersecurity UI       │
-│ PURPOSE  : interactive scrollytelling portfolio   │
-│ STACK    : Three.js · WebGL · Vite · GSAP · Lenis │
-│ STATUS   : ● LIVE                                 │
-│ FEATURES : WebGL scenes, investigation mode,      │
-│            forensic-style case presentation       │
-└──────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│ [ LAB 0x06 ]  ▟  moulkhibra.github.io        │
+├──────────────────────────────────────────────┤
+│ CLASS    : web — cinematic cybersecurity UI   │
+│ PURPOSE  : interactive scrollytelling demo    │
+│ STACK    : Three.js · WebGL · Vite · GSAP     │
+│ STATUS   : ● LIVE — moulkhibra.github.io     │
+│ NOTE     : simulated persona, clearly labeled │
+└──────────────────────────────────────────────┘
 ```
 
-[![REPO · moulkhibra.github.io](https://img.shields.io/badge/REPO_portfolio-A41312?style=for-the-badge&logo=github)](https://github.com/moulkhibra/moulkhibra.github.io)
-[![DEMO · live site](https://img.shields.io/badge/LIVE_DEMO-moulkhibra.github.io-C4420A?style=for-the-badge&logo=firefox)](https://moulkhibra.github.io)
+[![Repo · portfolio](https://img.shields.io/badge/REPO-portfolio-A41312?style=for-the-badge&logo=github)](https://github.com/moulkhibra/moulkhibra.github.io)
+[![Live · demo](https://img.shields.io/badge/LIVE-moulkhibra.github.io-C4420A?style=for-the-badge&logo=firefox)](https://moulkhibra.github.io)
 
 ---
 
-![0x04 · SECURITY FOCUS](https://img.shields.io/badge/0x04%20%C2%B7%20SECURITY%20FOCUS-7C0A0A?style=for-the-badge&labelColor=0A0505)
+## 0x08 · INVESTIGATION / TELEMETRY
 
-```
+[![Animated network topology — simulation](assets/network.svg)](https://github.com/moulkhibra)
 
-[+] APPLIED (in repositories):
-    • Secure development — hashing, RBAC, CSRF/XSS defence
-    • Security-minded engineering — input validation, least privilege
-    • Offensive-adjacent UI — investigation & analysis interfaces
-
-[+] IN PROGRESS (active study, authorized scope only):
-    • Web application penetration testing — OWASP methodology
-    • OSINT & reconnaissance workflow
-    • Network analysis and protocol internals
-    • CTF challenges & exploit documentation
-    • Bug bounty — authorized programs only
-```
-
-> Boundary statement: everything labeled **IN PROGRESS** represents intentional learning on lab/authorized targets — not claimed certifications or engagements.
-
----
-
-![0x05 · SYSTEM TELEMETRY / ACTIVITY](https://img.shields.io/badge/0x05%20%C2%B7%20SYSTEM%20TELEMETRY%20%E2%80%94%20ACTIVITY-7C0A0A?style=for-the-badge&labelColor=0A0505)
+[![Animated radar — simulation](assets/radar.svg)](https://github.com/moulkhibra)
 
 <div align="center">
 
-![GitHub stats — fallback: profile at github.com/moulkhibra](https://github-readme-stats.vercel.app/api?username=moulkhibra&show_icons=true&theme=radical&hide_border=true&bg_color=0A0505&title_color=FF1A2E&icon_color=C4420A&text_color=B08B8B)
+[![GitHub stats — fallback: github.com/moulkhibra](https://github-readme-stats.vercel.app/api?username=moulkhibra&show_icons=true&theme=radical&hide_border=true&bg_color=0A0505&title_color=FF1A2E&icon_color=C4420A&text_color=B08B8B)](https://github.com/moulkhibra)
 
-![Top languages — fallback: profile at github.com/moulkhibra](https://github-readme-stats.vercel.app/api/top-langs/?username=moulkhibra&layout=compact&theme=radical&hide_border=true&bg_color=0A0505&title_color=FF1A2E&text_color=B08B8B)
+[![Top languages — fallback: github.com/moulkhibra](https://github-readme-stats.vercel.app/api/top-langs/?username=moulkhibra&layout=compact&theme=radical&hide_border=true&bg_color=0A0505&title_color=FF1A2E&text_color=B08B8B)](https://github.com/moulkhibra)
 
 [![GitHub streak](https://streak-stats.demolab.com?user=moulkhibra&theme=dark&background=0A0505&border=5E0A0A&ring=FF1A2E&fire=C4420A&currStreakLabel=FF1A2E&sideLabels=B08B8B&currStreakNum=FF1A2E&sideNums=B08B8B&dates=7C3A3A)](https://git.io/streak-stats)
 
@@ -243,20 +220,20 @@ Markers: `●` applied in my repositories · `○` actively studying. No percent
 
 </div>
 
-> Fallback: if any widget fails to load, live statistics are on [github.com/moulkhibra](https://github.com/moulkhibra). Contribution grid is regenerated every 12h by the repo's `snake.yml` workflow.
+> If a widget fails to load, live activity is on [github.com/moulkhibra](https://github.com/moulkhibra).
 
 ---
 
-![0x06 · CONTACT](https://img.shields.io/badge/0x06%20%C2%B7%20CONTACT-7C0A0A?style=for-the-badge&labelColor=0A0505)
+## 0x09 · SECURE CHANNEL
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40moulkhibra-8A0D0D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moulkhibra)
-[![Portfolio](https://img.shields.io/badge/Portfolio-moulkhibra.github.io-5E0A0A?style=for-the-badge&logo=firefox&logoColor=white)](https://moulkhibra.github.io)
+[![GitHub @moulkhibra](https://img.shields.io/badge/GitHub-%40moulkhibra-8A0D0D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moulkhibra)
+[![Portfolio moulkhibra.github.io](https://img.shields.io/badge/Portfolio-moulkhibra.github.io-5E0A0A?style=for-the-badge&logo=firefox&logoColor=white)](https://moulkhibra.github.io)
 
 </div>
 
-Only verified public channels are listed. Direct contact via GitHub.
+Only verified public channels are listed. Direct contact via GitHub issues is preferred.
 
 ---
 
@@ -268,8 +245,6 @@ Only verified public channels are listed. Direct contact via GitHub.
              ██████████████████████████████████████
 ```
 
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=moulkhibra.moulkhibra&color=8A0D0D)](https://github.com/moulkhibra)
-
-<sub>identity · Amine Erresmy · Morocco · 1337/42 network</sub>
+<sub>MOULKHIBRA · security research lab · Morocco · 1337/42 network · every claim maps to a repository</sub>
 
 </div>

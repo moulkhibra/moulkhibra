@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 120" role="img" aria-label="System status indicators: access level public, status building">
+  <title>SYSTEM STATUS</title>
+  <desc>Two status indicators: access level public and status building.</desc>
+
+  <rect width="480" height="120" fill="#0A0505"/>
+  <rect x="1" y="1" width="478" height="118" fill="none" stroke="#7C0A0A" stroke-width="2" opacity="0.9"/>
+
+  <!-- access -->
+  <g>
+    <circle cx="34" cy="46" r="5" fill="none" stroke="#FF1A2E" stroke-width="1.5"><animate attributeName="r" values="5;10;5" dur="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="34" cy="46" r="3" fill="#FF1A2E"/>
+    <text x="56" y="50" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#B08B8B">ACCESS LEVEL</text>
+    <text x="180" y="50" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#FF1A2E" letter-spacing="2">PUBLIC</text>
+  </g>
+
+  <!-- status -->
+  <g>
+    <circle cx="34" cy="92" r="3" fill="#C4420A"/>
+    <text x="56" y="96" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#B08B8B">STATUS</text>
+    <text x="180" y="96" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#C4420A" letter-spacing="2">BUILDING</text>
+  </g>
+</svg>

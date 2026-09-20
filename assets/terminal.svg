@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 190" role="img" aria-label="Animated terminal session showing whoami and recon help commands as visual metaphor">
+  <title>TERMINAL SESSION — DECORATIVE</title>
+  <desc>Stylized terminal lines: whoami output and recon --help. Commands are decorative metaphors; no external targets are implied.</desc>
+
+  <rect width="640" height="190" fill="#0A0505"/>
+  <rect x="1" y="1" width="638" height="188" fill="none" stroke="#7C0A0A" stroke-width="2" opacity="0.9"/>
+
+  <!-- title bar -->
+  <circle cx="20" cy="18" r="4" fill="#7C0A0A"/>
+  <circle cx="36" cy="18" r="4" fill="#5E0A0A"/>
+  <text x="320" y="23" text-anchor="middle" font-family="'Share Tech Mono','Courier New',monospace" font-size="11" fill="#7C3A3A">moulkhibra@lab — zsh</text>
+
+  <!-- line 1 -->
+  <text x="20" y="58" font-family="'Share Tech Mono','Courier New',monospace" font-size="13" fill="#3E8A4C" opacity="0">moulkhibra@lab:~$<animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.2s" fill="freeze"/></text>
+  <text x="172" y="58" font-family="'Share Tech Mono','Courier New',monospace" font-size="13" fill="#FF1A2E" opacity="0">whoami<animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.2s" fill="freeze"/></text>
+  <text x="320" y="85" font-family="'Share Tech Mono','Courier New',monospace" font-size="13" fill="#B08B8B" opacity="0">amine_erresmy · self-taught security researcher in training<animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.2s" fill="freeze"/></text>
+
+  <!-- line 2 -->
+  <text x="20" y="118" font-family="'Share Tech Mono','Courier New',monospace" font-size="13" fill="#3E8A4C" opacity="0">moulkhibra@lab:~$<animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.2s" fill="freeze"/></text>
+  <text x="172" y="118" font-family="'Share Tech Mono','Courier New',monospace" font-size="13" fill="#FF1A2E" opacity="0">recon --authorized --targets local-lab<animate attributeName="opacity" from="0" to="1" begin="2.5s" dur="0.2s" fill="freeze"/></text>
+  <text x="320" y="145" font-family="'Share Tech Mono','Courier New',monospace" font-size="13" fill="#B08B8B" opacity="0">metaphor · safe tooling patterns only — no external targets implied<animate attributeName="opacity" from="0" to="1" begin="3.3s" dur="0.2s" fill="freeze"/></text>
+
+  <!-- cursor -->
+  <rect x="20" y="156" width="9" height="14" fill="#C4420A" opacity="0"><animate attributeName="opacity" values="0;1;1;0" dur="1s" repeatCount="indefinite" begin="4s"/></rect>
+</svg>

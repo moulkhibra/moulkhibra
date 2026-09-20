@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 360" role="img" aria-label="Animated boot sequence header for the MOULKHIBRA security lab profile">
+  <title>MOULKHIBRA // SECURITY LAB — boot sequence</title>
+  <desc>Terminal boot sequence: initializing security core, loading network module, scanning threat surface, establishing secure channel, system online. Access level public, status building.</desc>
+
+  <!-- background -->
+  <rect width="860" height="360" fill="#0A0505"/>
+  <rect x="1" y="1" width="858" height="358" fill="none" stroke="#7C0A0A" stroke-width="2" opacity="0.9"/>
+
+  <!-- corner brackets -->
+  <path d="M6 40 L6 6 L40 6" fill="none" stroke="#C4420A" stroke-width="2"/>
+  <path d="M854 40 L854 6 L820 6" fill="none" stroke="#C4420A" stroke-width="2"/>
+  <path d="M6 354 L6 320 L40 320" fill="none" stroke="#C4420A" stroke-width="2"/>
+  <path d="M854 354 L854 320 L820 320" fill="none" stroke="#C4420A" stroke-width="2"/>
+
+  <!-- WORDMARK -->
+  <text x="32" y="64" font-family="'Share Tech Mono','Courier New',monospace" font-size="32" fill="#FF1A2E" letter-spacing="6">MOULKHIBRA</text>
+  <text x="34" y="86" font-family="'Share Tech Mono','Courier New',monospace" font-size="12" fill="#C4420A" letter-spacing="3">// SECURITY LAB — OSINT · WEB SECURITY · TOOLING</text>
+
+  <!-- BOOT LINES + DOTS + OK -->
+  <text x="32" y="134" font-family="'Share Tech Mono','Courier New',monospace" font-size="13" fill="#B08B8B" opacity="0">boot : initializing security core<animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.3s" fill="freeze"/></text>
+  <text x="300" y="134" font-family="'Share Tech Mono','Courier New',monospace" font-size="13" fill="#7C3A3A" opacity="0">&gt;&gt;&gt; &gt;&gt;&gt; &gt;&gt;&gt;<animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.7s" fill="freeze"/></text>
+  <text x="412" y="134" font-family="'Share Tech Mono','Courier New',monospace" font-size="13" fill="#3E8A4C" opacity="0">OK<animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.2s" fill="freeze"/></text>
+
+  <text x="32" y="158" font-family="'Share Tech Mono','Courier New',monospace" font-size="13" fill="#B08B8B" opacity="0">boot : loading network module<animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.3s" fill="freeze"/></text>
+  <text x="300" y="158" font-family="'Share Tech Mono','Courier New',monospace" font-size="13" fill="#7C3A3A" opacity="0">&gt;&gt;&gt; &gt;&gt;&gt; &gt;&gt;&gt;<animate attributeName="opacity" from="0" to="1" begin="1.7s" dur="0.7s" fill="freeze"/></text>
+  <text x="412" y="158" font-family="'Share Tech Mono','Courier New',monospace" font-size="13" fill="#3E8A4C" opacity="0">OK<animate attributeName="opacity" from="0" to="1" begin="2.5s" dur="0.2s" fill="freeze"/></text>
+
+  <text x="32" y="182" font-family="'Share Tech Mono','Courier New',monospace" font-size="13" fill="#B08B8B" opacity="0">boot : scanning threat surface — LAB ONLY<animate attributeName="opacity" from="0" to="1" begin="2.3s" dur="0.3s" fill="freeze"/></text>
+  <text x="300" y="182" font-family="'Share Tech Mono','Courier New',monospace" font-size="13" fill="#7C3A3A" opacity="0">&gt;&gt;&gt; &gt;&gt;&gt; &gt;&gt;&gt;<animate attributeName="opacity" from="0" to="1" begin="2.7s" dur="0.7s" fill="freeze"/></text>
+  <text x="412" y="182" font-family="'Share Tech Mono','Courier New',monospace" font-size="13" fill="#3E8A4C" opacity="0">OK<animate attributeName="opacity" from="0" to="1" begin="3.5s" dur="0.2s" fill="freeze"/></text>
+
+  <text x="32" y="206" font-family="'Share Tech Mono','Courier New',monospace" font-size="13" fill="#B08B8B" opacity="0">boot : establishing secure channel<animate attributeName="opacity" from="0" to="1" begin="3.3s" dur="0.3s" fill="freeze"/></text>
+  <text x="300" y="206" font-family="'Share Tech Mono','Courier New',monospace" font-size="13" fill="#7C3A3A" opacity="0">&gt;&gt;&gt; &gt;&gt;&gt; &gt;&gt;&gt;<animate attributeName="opacity" from="0" to="1" begin="3.7s" dur="0.7s" fill="freeze"/></text>
+  <text x="412" y="206" font-family="'Share Tech Mono','Courier New',monospace" font-size="13" fill="#3E8A4C" opacity="0">OK<animate attributeName="opacity" from="0" to="1" begin="4.5s" dur="0.2s" fill="freeze"/></text>
+
+  <!-- right metadata -->
+  <text x="596" y="134" font-family="'Share Tech Mono','Courier New',monospace" font-size="11" fill="#7C3A3A" opacity="0">DOC : PRF-2026<animate attributeName="opacity" from="0" to="1" begin="4.8s" dur="0.3s" fill="freeze"/></text>
+  <text x="596" y="158" font-family="'Share Tech Mono','Courier New',monospace" font-size="11" fill="#7C3A3A" opacity="0">NET : LAB / LAN<animate attributeName="opacity" from="0" to="1" begin="5.0s" dur="0.3s" fill="freeze"/></text>
+  <text x="596" y="182" font-family="'Share Tech Mono','Courier New',monospace" font-size="11" fill="#7C3A3A" opacity="0">BOX : LEARNING<animate attributeName="opacity" from="0" to="1" begin="5.2s" dur="0.3s" fill="freeze"/></text>
+  <text x="596" y="206" font-family="'Share Tech Mono','Courier New',monospace" font-size="11" fill="#7C3A3A" opacity="0">CLR : UNCLASSIFIED<animate attributeName="opacity" from="0" to="1" begin="5.4s" dur="0.3s" fill="freeze"/></text>
+
+  <!-- status row -->
+  <text x="32" y="258" font-family="'Share Tech Mono','Courier New',monospace" font-size="16" fill="#FF1A2E" letter-spacing="2" opacity="0">SYSTEM ONLINE<animate attributeName="opacity" from="0" to="1" begin="5.6s" dur="0.3s" fill="freeze"/></text>
+  <text x="32" y="284" font-family="'Share Tech Mono','Courier New',monospace" font-size="11" fill="#B08B8B" opacity="0">access level : PUBLIC · status : BUILDING · authorized testing only<animate attributeName="opacity" from="0" to="1" begin="6.1s" dur="0.3s" fill="freeze"/></text>
+
+  <!-- blinking cursor -->
+  <rect x="188" y="246" width="10" height="18" fill="#C4420A" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" dur="1.1s" repeatCount="indefinite" begin="6.4s"/>
+  </rect>
+
+  <!-- pulse -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="6.4s" dur="0.3s" fill="freeze"/>
+    <circle cx="30" cy="332" r="3" fill="#FF1A2E"/>
+    <circle cx="30" cy="332" r="3" fill="none" stroke="#FF1A2E" stroke-width="1.5"><animate attributeName="r" values="3;9;3" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <text x="44" y="336" font-family="'Share Tech Mono','Courier New',monospace" font-size="10" fill="#7C3A3A">SECURE CHANNEL · ESTABLISHED</text>
+  </g>
+
+  <!-- scanlines -->
+  <g opacity="0.05">
+    <rect x="0" y="-12" width="860" height="4" fill="#FF1A2E"><animateTransform attributeName="transform" type="translate" from="0 0" to="0 376" dur="3.5s" repeatCount="indefinite"/></rect>
+    <rect x="0" y="-24" width="860" height="3" fill="#C4420A"><animateTransform attributeName="transform" type="translate" from="0 0" to="0 388" dur="4.3s" repeatCount="indefinite" begin="0.7s"/></rect>
+  </g>
+
+  <!-- glitch slices -->
+  <g opacity="0.06">
+    <rect x="-40" y="28" width="860" height="6" fill="#FF1A2E"><animate attributeName="x" values="-40;40;-40;-70;-40" dur="1.6s" repeatCount="indefinite" begin="6s"/></rect>
+    <rect x="0" y="120" width="860" height="4" fill="#B08B8B"><animate attributeName="x" values="0;-50;0;60;0" dur="2.1s" repeatCount="indefinite" begin="6.4s"/></rect>
+  </g>
+</svg>
